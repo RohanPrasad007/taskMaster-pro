@@ -1,0 +1,15 @@
+{
+  "projects": {
+    "default": "rahul-auto-parts"
+  },
+  "targets": {
+    "rahul-auto-parts": {
+      "hosting": {
+        "tr": [
+          "task-master-pro-128ed"
+        ]
+      }
+    }
+  },
+  "etags": {}
+}
